@@ -23,6 +23,6 @@ using namespace std;
 
 int main() {
   system(“Color 1E”); // displays blue as bg color and bright yellow as text color
-  // code
+  // code goes here
   return 0;
 }
