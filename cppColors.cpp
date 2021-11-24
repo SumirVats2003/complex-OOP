@@ -1,3 +1,7 @@
+/*
+Sometimes you want to add colors to your console application
+In that case, here is a guide for you :)
+
 Color id 	Color		      | Color id	Color
 1	        Blue		      | 9		      Light Blue
 2		      Green		      | 0		      Black
@@ -11,3 +15,14 @@ Color id 	Color		      | Color id	Color
 
 SYNTAX:
 system(“Color (BG color Code)(Text color Code)”);
+use the above syntax as the very first line of the main function as:
+*/
+
+#include <iostream>
+using namespace std;
+
+int main() {
+  system(“Color (BG color Code)(Text color Code)”);
+  // code
+  return 0;
+}
