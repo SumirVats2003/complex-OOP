@@ -2,8 +2,6 @@
 
 Complex Numbers implementation in c++ using object oriented programming
 
-
-/*
 Sometimes you want to add colors to your console application
 In that case, here is a guide for you :)
 
@@ -19,19 +17,18 @@ In that case, here is a guide for you :)
 |8	      |  Gray		       | F		    |  Bright White  |
 
 
-SYNTAX:
-system(“Color (BG color Code)(Text color Code)”);
+SYNTAX:<br/>
+system(“Color (BG color Code)(Text color Code)”);<br/>
 use the above syntax as the very first line of the main function as:
-*/
 
 ```
-#include \<iostream\> <br/>
-using namespace std; <br/>
+#include \<iostream\>
+using namespace std;
 
-int main() {<br/>
-  system(“Color 1E”); // displays blue as bg color and bright yellow as text color<br/>
-  // code<br/>
-  return 0;<br/>
+int main()
+  system(“Color 1E”); // displays blue as bg color and bright yellow as text color
+  // code
+  return 0;
 }
  ```
 source: Geeks For Geeks
