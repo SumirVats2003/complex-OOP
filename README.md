@@ -24,6 +24,7 @@ system(“Color (BG color Code)(Text color Code)”);
 use the above syntax as the very first line of the main function as:
 */
 
+```
 #include \<iostream\> <br/>
 using namespace std; <br/>
 
@@ -32,5 +33,5 @@ int main() {<br/>
   // code<br/>
   return 0;<br/>
 }
-  
+ ```
 source: Geeks For Geeks
