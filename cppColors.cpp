@@ -22,7 +22,7 @@ use the above syntax as the very first line of the main function as:
 using namespace std;
 
 int main() {
-  system(“Color (BG color Code)(Text color Code)”);
+  system(“Color 1E”); // displays blue as bg color and bright yellow as text color
   // code
   return 0;
 }
