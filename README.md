@@ -24,13 +24,13 @@ system(“Color (BG color Code)(Text color Code)”);
 use the above syntax as the very first line of the main function as:
 */
 
-#include <iostream>
-using namespace std;
+#include \<iostream\> <br/>
+using namespace std; <br/>
 
-int main() {
-  system(“Color 1E”); // displays blue as bg color and bright yellow as text color
-  // code
-  return 0;
+int main() {<br/>
+  system(“Color 1E”); // displays blue as bg color and bright yellow as text color<br/>
+  // code<br/>
+  return 0;<br/>
 }
   
 source: Geeks For Geeks
