@@ -2,6 +2,19 @@
 
 Complex Numbers implementation in c++ using object oriented programming
 
+* Author: Sumir Vats
+* Date: 24 Nov, 2021 (Wed)
+*
+* This program implements complex numbers using OOP
+* You can add, subtract, multiply, divide, see conjugate, see modulus of the complex number
+* and many more
+* Other than that I have added the following functions:
+* 1. to show argument of the complex number
+* 2. to find distance between two complex numbers in argand plane
+* and we can add more functions to make this program more and more functional
+*
+* Overall, it was a very fun project and I got to learn a lot from it.
+
 Sometimes you want to add colors to your console application
 In that case, here is a guide for you :)
 
